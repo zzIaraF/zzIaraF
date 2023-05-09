@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, C#, PHP**
 
-- 💬 Ask me about **Python, SQL, C**
+- 💬 Ask me about **Python, SQL, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **zziarafcastro@gmail.com**
 
