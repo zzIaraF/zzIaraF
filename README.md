@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iara F.</h1>
 <h3 align="center">TI student, passionate about programming logic and problem solving</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, C#, PHP**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Java*
 
 - 💬 Ask me about **Python, SQL, JavaScript, HTML, CSS**
 
