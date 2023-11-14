@@ -2,7 +2,7 @@
 <h3 align="center">TI student, passionate about programming logic and problem solving</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and Java**
-- 💬 Ask me about **Python, SQL, JavaScript, HTML, CSS**
+- 💬 Ask me about **Python, SQL, Django**
 
 - 📫 How to reach me **zziarafcastro@gmail.com**
 
